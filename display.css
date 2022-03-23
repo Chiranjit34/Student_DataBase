@@ -1,0 +1,36 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  } 
+#table1 {
+  justify-content: center;
+  width: 20%;
+  height: auto;
+  /* border: 2px solid rgb(27, 25, 25); */
+  box-sizing: border-box;
+}
+#ok {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  margin-top: 30px;
+  /* border:1px solid black; */
+}
+thead {
+  /* border: 2px solid black; */
+  justify-content: center;
+  text-align: center;
+}
+#r {
+  /* border: 2px solid black; */
+  justify-content: center;
+}
+#sContent {
+  /* border: 1px solid black; */
+  justify-content: center;
+}
+#h {
+    /* border: 2px solid black; */
+  justify-content: center;
+  text-align: center;
+}
